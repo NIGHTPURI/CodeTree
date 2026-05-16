@@ -6,7 +6,7 @@ def gcd(a,b) :
     return a
 
 def lcm(a,b,c):
-    print((a//c)*(b//c)*c)
+    print((a*b)//c)
 
 lcm(n,m,gcd(n,m))
     
