@@ -2,12 +2,20 @@
 
 Python과 Java로 풀이한 코드트리 문제를 모았습니다. 조건문·반복문부터 배열, 함수, 격자 탐색까지 코드로 확인할 수 있는 학습 기록입니다.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B45309?style=flat)
+![Purpose: Learning](https://img.shields.io/badge/Purpose-Learning-374151?style=flat)
+
+[학습 지도](#둘러보기) · [풀이 접근](#코드에서-볼-수-있는-접근) · [실행과 기록](#실행과-결과-해석)
+
 ## 둘러보기
 
-- [trail0](trail0): 입출력, 조건문, 반복문, 배열 등 기초 문제
-- [trail1](trail1): 기초 문법 복습과 구현 연습
-- [trail2](trail2): 함수 활용과 수학·구현 문제
-- [samsung-sw](samsung-sw): 격자 시뮬레이션과 탐색 문제
+| 학습 영역 | 풀이 폴더 |
+|---|---|
+| 입출력 · 조건문 · 반복문 · 배열 | [trail0](trail0) |
+| 기초 문법 복습 · 구현 | [trail1](trail1) |
+| 함수 · 수학 · 구현 | [trail2](trail2) |
+| 격자 시뮬레이션 · 탐색 | [samsung-sw](samsung-sw) |
 
 ## 코드에서 볼 수 있는 접근
 
